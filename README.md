@@ -1,16 +1,12 @@
-# todoo
+# Todoo
 
 A new Flutter project.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![1740838062153](https://github.com/user-attachments/assets/2f7ec634-b300-4c15-b09c-7841f3d939fa) 
+![1740838062141](https://github.com/user-attachments/assets/ef8334df-115d-48dc-99bb-2fd1c84c672d) 
+![1740838062147](https://github.com/user-attachments/assets/e3cb7e9f-1482-4119-ad6d-6b6d1a0c624e)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
